@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Displayray</h1>
 <h3 align="center">Fullstack Developer from Germany</h3>
 
-## **About me**
+## 🔮 **About me**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=displayray&label=Profile%20views&color=0e75b6&style=flat" alt="displayray" /> </p>
 
@@ -21,7 +21,7 @@
 
 -----------------------------------
 
-## 🌅 **Github Statistics**
+## 📊 **Github Statistics**
 
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=displayray&show_icons=true&locale=en" alt="displayray" /></p>
 
