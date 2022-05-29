@@ -1,4 +1,3 @@
-![MasterHead](https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
 <h1 align="center">Hi 👋, I'm Displayray</h1>
 <h3 align="center">Fullstack Developer from Germany</h3>
 
